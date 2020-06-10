@@ -12,6 +12,7 @@ allow you to activate WordPress
 always reach out to the support.
 
 
+
 Local Host:
 
 download a server (MAMP for Mac and WAMP for Windows).
