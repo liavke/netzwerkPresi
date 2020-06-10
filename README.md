@@ -9,12 +9,22 @@
       <li>allow you to activate WordPress</li>
       <li>always reach out to the support.</li>
 </ul>
+  </section>
+  </br>
+  <section>
+  <h3>Local Host:</h3>
+  <ul style="list-style-type:circle">
+    <li>download a server (MAMP for Mac and WAMP for Windows).
+</li>
+    <li>download WordPress and link it to the local server and the database (PHPMyAdmin).
+</li>
+    <li>website is on your computer, no one can access it.
+</li>
+    <li>can not work with several people at the same time on the same WordPress website
+</li>
+  </ul>
+  </section>
 
 
-Local Host:
-download a server (MAMP for Mac and WAMP for Windows).
-download WordPress and link it to the local server and the database (PHPMyAdmin).
-website is on your computer, no one can access it.
-can not work with several people at the same time on the same WordPress website
 
 </div>
